@@ -1,0 +1,26 @@
+{
+  "name": "inter-mediator-plugin-flatpickr",
+  "version": "1.0.0",
+  "description": "INTER-Mediator plug-in to use the flatpickr.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INTER-Mediator/inter-mediator-plugin-flatpickr.git"
+  },
+  "keywords": [
+    "INTER-Mediator",
+    "flatpickr"
+  ],
+  "dependencies": {
+    "flatpickr": "*"
+  },
+  "author": "Masayuki Nii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INTER-Mediator/inter-mediator-plugin-flatpickr/issues"
+  },
+  "homepage": "https://github.com/INTER-Mediator/inter-mediator-plugin-flatpickr#readme"
+}
