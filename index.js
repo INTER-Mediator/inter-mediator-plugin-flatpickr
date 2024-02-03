@@ -1,5 +1,5 @@
 IMParts_Catalog.flatpickr = {
-  instanciate: function (targetNode) {
+  instantiate: function (targetNode) {
     var nodeId = targetNode.getAttribute('id')
     this.ids.push(nodeId)
 
